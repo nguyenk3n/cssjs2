@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://papercolor.vn/dong-vien/thiep-3d-pop-up-meo-ghe-sofa.html' target='_blank'><img src='https://papercolor.vn/image/cache/catalog/banner/4-385x477_0.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://papercolor.vn/dong-vien/thiep-3d-pop-up-meo-ghe-sofa.html' target='_blank'><img src='https://papercolor.vn/image/cache/catalog/banner/4-385x477_0.jpg' width='500px'/><br/></a><h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
