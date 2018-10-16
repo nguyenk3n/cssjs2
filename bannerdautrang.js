@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://papercolor.vn/dong-vien/thiep-3d-pop-up-meo-ghe-sofa.html' target='_blank'><img src='https://papercolor.vn/image/cache/catalog/banner/4-385x477_0.jpg' width='500px'/><br/></a><h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://colorpopcard.com/collections/birthday-pop-up-card' target='_blank'><img src='https://lh3.googleusercontent.com/csi61-f0cKvM_ROhEEaFx3DaTY59xOa6tyPZK3iC7Jd-M83Qxb7obTO17Nkzb3JBLoIQ_j-WhgCX59S_ucFRdOLVCDaeMm-k1FeLSxfpbnONgMI1dJ33aLSLCQlgGT8YY1KSFfYWNiXzxpveNCB3KPx_DY4yP3R5_E5aKBLAhqq_kumYNx_azy7t9HVDTVcxu1MteqImwO2jvB2Pd06m3ndgdF5W0quklhx1XAQv1umufaUd7t0QuV6AnMQuImz--uT4ofWb5djQuWN4t4RumyvWhSFXi04egZY7ySdatCJMr4ldZ2speLff-abE5qZ54qud0Knh20ywni8q6D_sZd8M_cVkp0G9aD6-Ycf-VCxDoMcDQsYLkMEYLIQQz3hhpBmIupBSOTV6vFYy-UVdF_ZFf0qadFPt0GMahe1LBRwRRu67w4SBEjXksmFFCYM4Y-HjUJ7F3XIjBJaHG-NHyFWWWL_Xo_2oDn1XHmGpQEjHYa-pjm8r3kvmk_O2J8CBdL-W5kkCJSNgY893DMawEa9fOv6ut48MYCNqE23FXpJRhBq1BH5OdgfNn4psRYJRpKZJmrE00v_OuznU_3dACZLbBbqJtrQEr7XUrR8HwW2TIKiPWIRiI8UV7Y1A5Jo=w385-h433-no' width='500px'/><br/></a><h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
