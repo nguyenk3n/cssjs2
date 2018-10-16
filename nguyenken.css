@@ -191,7 +191,7 @@ transition: background-color 250ms, opacity 250ms;
 Header CSS
 ******************************************/
 #header{ float:left; width: auto; }
-#header-inner{ margin: 30px 20px 40px; padding: 0; }
+#header-inner{ margin: 0px 60px 15px; padding: 0; }
 #header h1 { 
 font-size: 70px; 
 text-transform: capitalize;  
