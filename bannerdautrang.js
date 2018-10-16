@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me colorpopcard@gmail.com
+//website https://colorpopcard.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
