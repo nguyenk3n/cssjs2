@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://papercolor.vn';
+	var url_popup = 'https://colorpopcard.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
